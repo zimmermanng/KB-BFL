@@ -2,6 +2,8 @@
 
 Dieses Repository dient als zentrale Dateiablage für das Knowledge Badge "Barrierefrei lehren". Hier befinden sich alle relevanten Unterlagen, Materialien und Ressourcen zum Projekt.
 
+**Hinweis:** Nicht öffentliche und vertrauliche Unterlagen (bspw. die Prüfungsfragen) sind nicht in diesem GitHub-Projekt enthalten, sondern an einem separaten, geschützten Ablageort hinterlegt.
+
 ## Wiki
 
 Das Projekt-Wiki ist über den folgenden Link oder den Menüpunkt "Wiki" erreichbar: [KB-BFL Wiki](https://github.com/zimmermanng/KB-BFL/wiki)
