@@ -6,7 +6,7 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 ## Wiki
 
-Das Projekt-Wiki ist über den folgenden Link oder den Menüpunkt "Wiki" erreichbar: [KB-BFL Wiki](https://github.com/zimmermanng/KB-BFL/wiki)
+Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden Sie im [KB-BFL Wiki](https://github.com/zimmermanng/KB-BFL/wiki)
 
 ## Ticketübersicht
 
