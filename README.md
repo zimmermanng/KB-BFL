@@ -4,6 +4,10 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 **Hinweis:** Nicht öffentliche und vertrauliche Unterlagen (bspw. die Prüfungsfragen) sind nicht in diesem GitHub-Projekt enthalten, sondern an einem separaten, geschützten Ablageort hinterlegt.
 
+## Termine und Orte der 4. Prüfungsrunde
+
+Siehe [4. Prüfungsrunde: Juni-Juli 2026](https://github.com/zimmermanng/KB-BFL/wiki/4-pruefungsrunde-jun-jul-2026).
+
 ## Wiki
 
 Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden Sie im [KB-BFL Wiki](https://github.com/zimmermanng/KB-BFL/wiki)
