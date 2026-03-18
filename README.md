@@ -1,4 +1,4 @@
-# Knowledge Badge "Barrierefrei lehren" (KB-BFL)
+# Knowledge Badge "Barrierefrei lehren" (KB-BFL)  <img width="100" height="100" alt="1" src="https://github.com/user-attachments/assets/31c6b7c3-62bb-4be1-bfab-32a92816a0c0" />
 
 Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge Badge "Barrierefrei lehren". Hier befinden sich alle relevanten Unterlagen, Materialien und Ressourcen.
 
@@ -8,4 +8,4 @@ Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden S
 
 
 
-<img width="100" height="100" alt="1" src="https://github.com/user-attachments/assets/31c6b7c3-62bb-4be1-bfab-32a92816a0c0" />
+
