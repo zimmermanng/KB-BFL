@@ -7,4 +7,4 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 Weitere Informationen zu Syllabi, Prüfungsterminen, Merkblättern etc. finden Sie im [KB-BFL Wiki](../../wiki)
 
 
-<img width="2000" height="2000" alt="bfl1" src="https://github.com/user-attachments/assets/f48fb09e-223d-4171-9884-abcc0c1e8a96" />
+<img width="500" height="500" alt="bfl1" src="https://github.com/user-attachments/assets/f48fb09e-223d-4171-9884-abcc0c1e8a96" />
