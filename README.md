@@ -20,6 +20,8 @@ Prüfungstermine und -orte:
 - Stuttgart: Fr 24.07.2026 um 14.00 Uhr
 - TU Chemnitz: Mi 29.07.2026 um 13.00 Uhr
 
+Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 50€ für IAAP-Mitglieder bzw. 100€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
+
 [Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/992574?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
 
 ## Weitere Informationen 
