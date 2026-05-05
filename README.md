@@ -11,13 +11,16 @@ Prüfungstermine und -orte:
 - Uni Siegen, Do 18.06.26 um 15.00 Uhr in Raum US-F-104, Kohlbettstr. 15, 57072 Siegen --> (Update dieses Eintrags am 09.04.2026)
 - atos Köln, Do 18.06.26 um 11.00 Uhr: Atos Information Technology GmbH, Von-der-Wettern-Straße 27, 51149 Köln
 - FH Technikum Wien: Do 25.06.2026 um 15.00 Uhr
+- KB-BFL in Bydgoszcz: Fr 12.06.2026 (Zeit tbd)
+- KB-BFL in Wrocław: Di 16.06.2026 (Zeit tbd)
 - HFC Berlin: Fr 26.06.2026 um 14.00 Uhr
 - ETH Zürich: Do 02.07.2026 um 10.00 Uhr, [Raum HG E 21, Rämistrasse 101, Zürich](https://ethz.ch/content/dam/ethz/associates/services/Service/raeume-und-gebaeude/rektoratsraeume/files/foyerhguebersichtsplaene/%C3%9Cbersichtsplan_HG_%20E-Stock.pdf)
 - Videbis Wien: Do 16.07.2026 um 14.00 Uhr, Schlosshofer Straße 6, 1210 Wien
 - Nürnberg: Fr 17.07.2026 um 14:00 Uhr
 - Stuttgart: Fr 24.07.2026 um 14.00 Uhr
 - TU Chemnitz: Mi 29.07.2026 um 13.00 Uhr
-- atos Poland (tbd)
+
+[Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/992574?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
 
 ## Weitere Informationen 
 
