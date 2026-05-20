@@ -13,6 +13,8 @@ Prüfungstermine und -orte:
 - FH Technikum Wien: Do 25.06.2026 um 15.00 Uhr
 - KB-BFL in Bydgoszcz: Fr 12.06.2026 (Zeit tbd)
 - KB-BFL in Wrocław: Di 16.06.2026 (Zeit tbd)
+- KB-BFL in Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
+- KB-EAA in Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
 - HFC Berlin: Fr 26.06.2026 um 14.00 Uhr
 - ETH Zürich: Do 02.07.2026 um 10.00 Uhr, [Raum HG E 21, Rämistrasse 101, Zürich](https://ethz.ch/content/dam/ethz/associates/services/Service/raeume-und-gebaeude/rektoratsraeume/files/foyerhguebersichtsplaene/%C3%9Cbersichtsplan_HG_%20E-Stock.pdf)
 - Videbis Wien: Do 16.07.2026 um 14.00 Uhr, Schlosshofer Straße 6, 1210 Wien
