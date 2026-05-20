@@ -16,8 +16,8 @@ Prüfungstermine und -orte:
 - HFC Berlin: Fr 26.06.2026 um 14.00 Uhr
 - ETH Zürich: Do 02.07.2026 um 10.00 Uhr, [Raum HG E 21, Rämistrasse 101, Zürich](https://ethz.ch/content/dam/ethz/associates/services/Service/raeume-und-gebaeude/rektoratsraeume/files/foyerhguebersichtsplaene/%C3%9Cbersichtsplan_HG_%20E-Stock.pdf)
 - Videbis Wien: Do 16.07.2026 um 14.00 Uhr, Schlosshofer Straße 6, 1210 Wien
-- Nürnberg: Fr 17.07.2026 um 14:00 Uhr
-- Stuttgart: Fr 24.07.2026 um 14.00 Uhr
+- Nürnberg, tollwerk: Fr 17.07.2026 um 14:00 Uhr
+- Stuttgart, Hochschule der Medien: Fr 24.07.2026 um 14.00 Uhr
 - TU Chemnitz: Mi 29.07.2026 um 13.00 Uhr
 
 Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 50€ für IAAP-Mitglieder bzw. 100€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
