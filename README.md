@@ -4,26 +4,14 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 **Hinweis:** Nicht öffentliche und vertrauliche Unterlagen (bspw. die Prüfungsfragen) sind nicht in diesem GitHub-Projekt enthalten, sondern an einem separaten, geschützten Ablageort hinterlegt.
 
-## Informationen und Anmeldung zur 4. Prüfungsrunde: Juni-Juli 2026
+## Informationen und Anmeldung zur nächsten Prüfungsrunde
 
-Prüfungstermine und -orte:
-- FH Technikum Wien: Mi 10.06.2026 um 10.00 Uhr 
-- Bydgoszcz, atos: Fr 12.06.2026 um 11.00 Uhr
-- Wrocław, atos: Di 16.06.2026 um 11.00 Uhr
-- atos Köln, Do 18.06.26 um 11.00 Uhr: Atos Information Technology GmbH, Von-der-Wettern-Straße 27, 51149 Köln
-- Uni Siegen, Do 18.06.26 um 15.00 Uhr in Raum US-F-104, Kohlbettstr. 15, 57072 Siegen --> (Update dieses Eintrags am 09.04.2026)
-- Linz, JKU: Mi 24.06.2026 um 14.00 Uhr
-- FH Technikum Wien: Do 25.06.2026 um 15.00 Uhr
-- HFC Berlin: Fr 26.06.2026 um 14.00 Uhr
-- ETH Zürich: Do 02.07.2026 um 10.00 Uhr, [Raum HG E 21, Rämistrasse 101, Zürich](https://ethz.ch/content/dam/ethz/associates/services/Service/raeume-und-gebaeude/rektoratsraeume/files/foyerhguebersichtsplaene/%C3%9Cbersichtsplan_HG_%20E-Stock.pdf)
-- Videbis Wien: Do 16.07.2026 um 14.00 Uhr, Schlosshofer Straße 6, 1210 Wien
-- Nürnberg, tollwerk: Fr 17.07.2026 um 14:00 Uhr
-- Stuttgart, Hochschule der Medien: Fr 24.07.2026 um 14.00 Uhr
-- TU Chemnitz: Mi 29.07.2026 um 13.00 Uhr
+- Die 5. Prüfungsrunde wird voraussichtlich im Jan/Februar 2027 stattfinden.
+- Die 6. Prüfungsrunde dann im September/Oktober 2027.
+
+Genaue Prüfungstermine und -orte werden hier und durch IAAP-DACH bekanntgegeben.
 
 Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 50€ für IAAP-Mitglieder bzw. 100€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
-
-[Zur Prüfung anmelden](https://survey.hdm-stuttgart.de/241125?lang=de) - mindestens 5 Arbeitstage vor Prüfungsbeginn
 
 ## Weitere Informationen 
 
