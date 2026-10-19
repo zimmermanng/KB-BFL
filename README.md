@@ -6,10 +6,11 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 
 ## Informationen und Anmeldung zur nächsten Prüfungsrunde
 
-- Die 5. Prüfungsrunde wird voraussichtlich im Februar/März 2027 stattfinden.
-- Die 6. Prüfungsrunde dann im September/Oktober 2027.
+- Die 5. Prüfungsrunde findet im Februar/März 2027 statt. Folgende Termin sind bereits verfügbar:
+  - 05.02.2027 (Freitag) um 15.00 Uhr in Stuttgart. HdM Stuttgart, Raum/Adresse folgt.
+- Die 6. Prüfungsrunde wird voraussichtlich im September/Oktober 2027 stattfinden.
 
-Genaue Prüfungstermine und -orte werden hier und durch IAAP-DACH bekanntgegeben.
+Prüfungstermine und -orte werden generell hier und durch IAAP-DACH bekanntgegeben.
 
 Kosten: Um die Unkosten der Prüfung zu decken, erheben wir einen Beitrag von 50€ für IAAP-Mitglieder bzw. 100€ für Nicht-Mitglieder (Bezahlung auf Rechnung).
 
