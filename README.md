@@ -9,7 +9,7 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
 - Die 5. Prüfungsrunde findet im Februar/März 2027 statt. Folgende Termin sind bereits verfügbar:
   - 05.02.2027 (Freitag) um 15.00 Uhr in Stuttgart. HdM Stuttgart, Raum/Adresse folgt.
   - 16.03.2027 (Dienstag) um 14.30 Uhr in Dortmund. Raum/Adresse folgt.
-  - 16.03.2027 (Dienstag) in Zürich. Raum/Adresse folgt.
+  - 16.03.2027 (Dienstag) um 14 Uhr in Zürich. Raum/Adresse folgt.
 
 
 - Die 6. Prüfungsrunde wird voraussichtlich im September/Oktober 2027 stattfinden.
