@@ -10,7 +10,7 @@ Dieses öffentliche Repository dient als zentrale Dateiablage für das Knowledge
   - 05.02.2027 (Freitag) um 15.00 Uhr in Stuttgart. HdM Stuttgart, Raum/Adresse folgt.
   - 12.02.2027 (Freitag) um 15.00 Uhr in Wien. [Büro der Vereinten Nationen](https://www.unvienna.org/unvienna/index.html) (im Rahmen der [ZeroCon27](https://zeroproject.org/conferences/zero-project-conference-2027)), Raum/Adresse folgt.
   - 26.02.2027 (Freitag) um 14.00 Uhr in Berlin. HFC Human-Factors-Consult GmbH, Köpenicker Str. 325 im Innovationspark Wuhlheide, Haus 40, 12555 Berlin, Raum 319.
-  - 26.02.2027 (Freitag) um 14.00 Uhr in Nürnberg. tollwerk GmbH, Klingenhofstraße 5, 90411 Nürnberg, Raum folgt.
+  - 26.02.2027 (Freitag) um 14.00 Uhr in Nürnberg. [tollwerkstatt](https://tollwerkstatt.de/) c/o tollwerk GmbH, Klingenhofstraße 5, 90411 Nürnberg, Wegbeschreibung folgt.
   - 11.03.2027 (Donnerstag) um 17.00 Uhr in Wien. Inclusive Digital Education Lab der Uni Wien, Raum/Adresse folgt.
   - 16.03.2027 (Dienstag) um 14.30 Uhr in Dortmund. Raum/Adresse folgt.
   - 16.03.2027 (Dienstag) um 14.00 Uhr in Zürich. Raum/Adresse folgt.
